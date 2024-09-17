@@ -20,5 +20,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src", "create-goal.tsx", "empty-goals.tsx", "in-orbit-icon.tsx", "pending-goals.tsx", "app.tsx", "vite-env.d.ts"]
 }
