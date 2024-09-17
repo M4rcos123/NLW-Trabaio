@@ -20,10 +20,15 @@
   "linter": {
     "enabled": true,
     "rules": {
-      "recommended": true
+      "recommended": true,
+      "style": {
+        "noNonNullAssertion": "off"
+      },
+      "a11y": { "noLabelWithoutControl": "off" }
     }
   },
   "files": {
     "ignore": ["node_modules"]
   }
 }
+    
