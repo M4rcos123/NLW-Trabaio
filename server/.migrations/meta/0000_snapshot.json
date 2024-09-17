@@ -26,7 +26,7 @@
           "primaryKey": false,
           "notNull": true
         },
-        "create_at": {
+        "created_at": {
           "name": "create_at",
           "type": "timestamp with time zone",
           "primaryKey": false,
